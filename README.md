@@ -108,7 +108,7 @@
   <samp>GitHub Stats</samp>
 </h3>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/emilianoUwUn">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emilianoUwUn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
